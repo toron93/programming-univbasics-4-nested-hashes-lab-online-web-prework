@@ -1,7 +1,7 @@
 require_relative "spec_helper"
 require_relative "../nested.rb"
 
-
+{:known_for=>"COBOL", :languages=>["COBOL", "FORTRAN"]}
 
     end
   end
